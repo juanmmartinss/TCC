@@ -63,7 +63,3 @@ Este projeto utiliza uma arquitetura híbrida: a Estação de Controle (GSW) rod
 * **Coorientador:** Prof. Dr. Lauro Paulo da Silva Neto
 
 Trabalho de Conclusão de Curso apresentado à Universidade Federal de São Paulo (UNIFESP), 2025.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE.txt` para mais detalhes.
