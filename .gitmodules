@@ -1,0 +1,3 @@
+[submodule "GSW_TCC"]
+	path = GSW_TCC
+	url = git@github.com:juanmmartinss/GSW_TCC.git
