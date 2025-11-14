@@ -2,7 +2,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Concluído-green)
 ![TCC](https://img.shields.io/badge/TCC-Ciência%20da%20Computação-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 Este repositório contém o código-fonte e os conjuntos de dados do Trabalho de Conclusão de Curso (TCC) em Ciência da Computação pela Universidade Federal de São Paulo (UNIFESP).
 
