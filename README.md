@@ -3,7 +3,8 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-green)
 ![TCC](https://img.shields.io/badge/TCC-Ciência%20da%20Computação-blue)
 
-Este repositório contém o código-fonte e os conjuntos de dados do Trabalho de Conclusão de Curso (TCC) em Ciência da Computação pela Universidade Federal de São Paulo (UNIFESP).
+Este repositório contém o código-fonte e os conjuntos de dados do [Trabalho de Conclusão de Curso (TCC)](https://repositorio.unifesp.br/items/21160ec3-e6af-4b1f-a402-ed3c107b8bf2) em Ciência da Computação pela Universidade Federal de São Paulo (UNIFESP).
+
 
 O projeto consiste em um sistema integrado (Hardware/Software) para aquisição de telemetria e envio de telecomandos para um protótipo de microssatélite (CanSat), utilizando comunicação LoRa para o enlace de dados em tempo real.
 
